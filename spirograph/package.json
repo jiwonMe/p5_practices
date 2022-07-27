@@ -1,0 +1,19 @@
+{
+  "name": "spirograph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.4.2"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.4.2",
+    "typescript": "^4.7.4"
+  }
+}
